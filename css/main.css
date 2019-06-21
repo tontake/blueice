@@ -1,0 +1,72 @@
+.navbar-custom{
+    
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:1.3em;
+}
+a.nav-link {color:blue!important ;
+    font-size:1.3em;
+    font-weight:bolder;
+    border-top:1px solid white;
+    border-bottom:1px solid black;
+    margin-right:10px;
+}
+.pagecover{
+    background-color:greenyellow;
+    width:100%;
+    height:500px;
+}
+.sec-name{
+    color:black;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 40px;
+    
+
+}
+.mylisten{
+    margin-top: 50px;
+}
+.img-class{
+    border-radius: 50%
+}
+.twek{
+    color:blue;
+    padding:5px;
+}
+.twek2{
+    color:darkmagenta;
+    
+}
+.myimage{
+    width:160px;
+    height:100px;
+}
+.img-gallery{
+    border-right: 2px solid grey;
+}
+.mysec{
+    background-color:black;
+}
+.genre{
+    color:white;
+    font-family: serif;
+    font-weight: 400;
+
+}
+ul li {
+    color:black;
+    font-size: 1.3em;
+    list-style: none;
+    display:block;
+    padding:5px;
+    border-top: 1px solid white;
+    margin-left: -5px;
+}
+ul li a:hover {
+    color:blue;
+    background-color: gray;
+}
+.genre-sec{
+    background-color: crimson;
+}
